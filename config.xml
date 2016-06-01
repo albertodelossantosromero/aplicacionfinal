@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
  <widget xmlns = "http://www.w3.org/ns/widgets"
    xmlns:gap = "http://phonegap.com/ns/1.0"
-   id     = "com.phonegap.example5"
+   id     = "com.phonegap.example11"
    versionCode = "10"
    version ="1.0.0">
    
  <!--versioncode is optional and Android only -->
  
- <name>Dia de la Tierra</name>
+ <name>APLICACION FINAL</name>
  
  <description>
-    Aplicacion que muestra los datos de la Tierra
+    Aplicacion que muestra los datos de 3 ING.
  </description>
  
  <preference name="phonegap-version" value="3.1.0"/>
